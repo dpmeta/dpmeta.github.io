@@ -1,4 +1,16 @@
-# Theme Configuration
+# Site
+title: DP Group
+subtitle: 
+description: 
+keywords: research, academic, portfolio
+author: Dingzhi Peng
+language: en
+timezone: ''
+# URL
+url: https://dpmeta.github.io/repo
+# Extensions
+theme: hexo-theme-researcher# Theme Configuration
+
 avatar: /images/avatar.jpg
 favicon: /images/favicon.ico
 
